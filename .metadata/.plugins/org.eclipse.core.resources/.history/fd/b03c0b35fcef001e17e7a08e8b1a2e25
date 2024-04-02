@@ -1,0 +1,11 @@
+package com.kosa.strategy;
+
+public class Grasshopper extends Insect {
+
+	@Override
+	public void Attack() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

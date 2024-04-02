@@ -1,0 +1,17 @@
+package com.kosa.strategy;
+
+public class MainClass {
+	public static void main(String[] args) {
+		Insect dragonfly = new Dragonfly();
+		dragonfly.performEat();
+		dragonfly.performMove();
+		dragonfly.runAway();
+
+		dragonfly.setMovebehavior(new Flying());
+		dragonfly.setEatbehavior(new Carnivory());
+
+		Insect butterfly = new Butterfly();
+		butterfly.performEat();
+		
+	}
+}

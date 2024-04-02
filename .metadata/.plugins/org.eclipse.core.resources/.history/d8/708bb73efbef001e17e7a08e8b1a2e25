@@ -1,0 +1,10 @@
+package com.kosa.strategy;
+
+public class Carnivory implements Eatbehavior {
+
+	@Override
+	public void eat() {
+		System.out.println("육식을 합니다.");
+	}
+
+}

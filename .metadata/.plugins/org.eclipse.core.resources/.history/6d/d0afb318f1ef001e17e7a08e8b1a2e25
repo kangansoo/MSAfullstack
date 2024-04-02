@@ -1,0 +1,11 @@
+package com.kosa.simuduck;
+
+public class FlyWithWings implements FlyBehavior {
+
+	@Override
+	public void flyDuck() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

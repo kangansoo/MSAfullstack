@@ -1,0 +1,14 @@
+package com.kosa.animalsimulator;
+
+public class Canine extends Animal {
+
+	public Canine(String picture, String food, String hunger, String boudaries, String location) {
+		super(picture, food, hunger, boudaries, location);
+		// TODO Auto-generated constructor stub
+	}
+	
+	public void roam() {
+		System.out.println("개과 동물이 배회한다");
+	}
+
+}

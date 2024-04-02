@@ -1,0 +1,5 @@
+package com.kosa.headfirst01;
+
+public class MovieTestDrive {
+	Movie movie = new Movie();
+}

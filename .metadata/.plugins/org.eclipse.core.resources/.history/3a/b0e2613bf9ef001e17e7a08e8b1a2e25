@@ -1,0 +1,8 @@
+package com.kosa.strategypattern;
+
+public class Insect {
+	Movebehavior movebehavior;
+	Eatbehavior eatbehavior;
+	public Insect() {};
+	
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=TestProject/src&lt;com.kosa.animalsimulator{Animal.java[Animal" modifiers="1025" timestamp="1711941664474"/>
+    <typeInfo handle="=TestProject/src&lt;com.kosa.animalsimulator{Feline.java[Feline" modifiers="1025" timestamp="1711941694674"/>
+    <typeInfo handle="=TestProject/src&lt;com.kosa.simuduck{FlyBehavior.java[FlyBehavior" modifiers="513" timestamp="1711952929017"/>
+    <typeInfo handle="=TestProject/src&lt;com.kosa.simuduck{QuackBehavior.java[QuackBehavior" modifiers="513" timestamp="1711953078062"/>
+    <typeInfo handle="=TestProject/src&lt;com.kosa.simuduck{Duck.java[Duck" modifiers="1025" timestamp="1711956001392"/>
+    <typeInfo handle="=TestProject/src&lt;com.kosa.strategy{Movebehavior.java[Movebehavior" modifiers="513" timestamp="1711956615635"/>
+    <typeInfo handle="=TestProject/src&lt;com.kosa.strategy{Eatbehavior.java[Eatbehavior" modifiers="513" timestamp="1711956591973"/>
+    <typeInfo handle="=TestProject/src&lt;com.kosa.strategy{Insect.java[Insect" modifiers="1025" timestamp="1711957449741"/>
+</typeInfoHistroy>

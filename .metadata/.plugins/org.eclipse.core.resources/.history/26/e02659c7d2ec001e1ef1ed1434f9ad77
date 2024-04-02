@@ -1,0 +1,9 @@
+package com.kosa.diagram;
+
+public class Marine extends Unit {
+
+	public Marine(String name, int x, int y, int hp, int power) {
+		super(name, x, y, hp, power);
+	}
+	
+}

@@ -1,0 +1,5 @@
+package com.kosa.strategy;
+
+public class Eat implements Eatbehavior {
+
+}

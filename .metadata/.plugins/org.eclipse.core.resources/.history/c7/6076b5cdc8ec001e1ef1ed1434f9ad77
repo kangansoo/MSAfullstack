@@ -1,0 +1,11 @@
+package com.kosa.headfirst01;
+
+public class Movie {
+	private String title;
+	private String genre;
+	private int rating;
+	
+	public void playIt() {
+		System.out.println(title + "영화 상영");
+	}
+}

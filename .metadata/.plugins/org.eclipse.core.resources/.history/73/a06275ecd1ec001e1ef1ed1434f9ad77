@@ -1,0 +1,6 @@
+package com.kosa.diagram;
+
+public class Terran {
+	private Unit unit;
+	private Building building;
+}

@@ -1,0 +1,16 @@
+package com.kosa.animalsimulator;
+
+public class Hippo extends Animal{
+
+	public Hippo(String picture, String food, String hunger, String boudaries, String location) {
+		super(picture, food, hunger, boudaries, location);
+		// TODO Auto-generated constructor stub
+	}
+	
+	public void makeNoise() {
+		System.out.println("하마가 운다");
+	}
+	public void eat() {
+		System.out.println("하마가 먹는다");
+	}
+}

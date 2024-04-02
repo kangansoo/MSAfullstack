@@ -1,0 +1,31 @@
+package com.kosa.diagram;
+
+public class Restaurant {
+	private String foodName;
+	private int time;
+	private int cost;
+	public String getFoodName() {
+		return foodName;
+	}
+	public void setFoodName(String foodName) {
+		this.foodName = foodName;
+	}
+	public int getTime() {
+		return time;
+	}
+	public void setTime(int time) {
+		this.time = time;
+	}
+	public int getCost() {
+		return cost;
+	}
+	public void setCost(int cost) {
+		this.cost = cost;
+	}
+	
+	public void order(String foodName, int time) {
+		System.out.println(foodName+"을 주문하였습니다.");
+		System.out.println("예상 소요 시간은"+time+"분 입니다.");
+	}
+	
+}

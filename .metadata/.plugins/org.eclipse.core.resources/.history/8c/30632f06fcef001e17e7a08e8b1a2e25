@@ -1,0 +1,14 @@
+package com.kosa.strategy;
+
+public class Dragonfly extends Insect {
+
+	public Dragonfly() {
+		movebehavior = new Flying();
+	}
+	@Override
+	public void Attack() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

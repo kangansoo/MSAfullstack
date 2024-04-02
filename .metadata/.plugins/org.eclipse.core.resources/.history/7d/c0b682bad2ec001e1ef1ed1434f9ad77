@@ -1,0 +1,21 @@
+package com.kosa.diagram;
+
+public class Unit {
+	private String name;
+	private int x;
+	private int y;
+	private int hp;
+	private int power;
+	
+	public void move(int x, int y) {
+		this.x = x;
+		this.y = y;
+	}
+	public void getDamage(int damage) {
+		this.hp -= damage;
+	}
+	public void powerUpgrade(int upgrade) {
+		this.power += upgrade;
+	}
+	
+}

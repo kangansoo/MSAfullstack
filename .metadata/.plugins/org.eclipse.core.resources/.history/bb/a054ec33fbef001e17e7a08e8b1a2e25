@@ -1,0 +1,11 @@
+package com.kosa.strategy;
+
+public class Carnivory implements Eatbehavior {
+
+	@Override
+	public void eat() {
+		// TODO Auto-generated method stub
+
+	}
+
+}
