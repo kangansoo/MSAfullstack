@@ -7,5 +7,6 @@
     <typeInfo handle="=TestProject/src&lt;com.kosa.simuduck{Duck.java[Duck" modifiers="1025" timestamp="1711956001392"/>
     <typeInfo handle="=TestProject/src&lt;com.kosa.strategy{Movebehavior.java[Movebehavior" modifiers="513" timestamp="1711956615635"/>
     <typeInfo handle="=TestProject/src&lt;com.kosa.strategy{Eatbehavior.java[Eatbehavior" modifiers="513" timestamp="1711956591973"/>
-    <typeInfo handle="=TestProject/src&lt;com.kosa.strategy{Insect.java[Insect" modifiers="1025" timestamp="1711957449741"/>
+    <typeInfo handle="=TestProject/src&lt;com.kosa.strategy{Insect.java[Insect" modifiers="1025" timestamp="1711958371537"/>
+    <typeInfo handle="=TestProject/src&lt;com.kosa.generictypes{Pair.java[Pair" modifiers="513" timestamp="1712040207096"/>
 </typeInfoHistroy>

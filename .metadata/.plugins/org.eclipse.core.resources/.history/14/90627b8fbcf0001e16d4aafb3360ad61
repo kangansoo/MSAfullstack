@@ -1,0 +1,5 @@
+package com.kosa.generictypes;
+
+public class OrderedPair implements Pair<K, V> {
+
+}
