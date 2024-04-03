@@ -1,0 +1,29 @@
+package com.kosa.streampractice;
+
+import java.util.List;
+
+import com.kosa.lambda.Person;
+
+
+
+public class RosterTest {
+
+	interface checkSoldier {
+        boolean test(Soldier s);
+    }
+	public static void printSoldiersOlderThan(List<Soldier> roster, int age) {
+        for (Soldier s : roster) {
+            if (s.getAge() >= age) {
+                s.printSoldier();
+            }
+        }
+    }
+	public static void main(String[] args) {
+		List<Soldier> roster = Soldier.createRoster();
+		
+		roster.stream()
+        	.filter(s -> s.remainPeriod() >= 100 && "육군".equals(s.getClassification()))
+            .map(s -> s.getName() + " 남은 일자: " + s.remainPeriod() + "일")
+            .forEach(System.out::println);
+	}
+}

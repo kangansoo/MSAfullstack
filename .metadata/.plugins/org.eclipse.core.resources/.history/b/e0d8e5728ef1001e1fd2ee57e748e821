@@ -1,0 +1,8 @@
+package com.kosa.streampractice;
+
+public class Army {
+	String name;
+	int age;
+	
+
+}

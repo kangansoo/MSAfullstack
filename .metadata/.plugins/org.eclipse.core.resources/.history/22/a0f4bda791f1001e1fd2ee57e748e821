@@ -1,0 +1,14 @@
+package com.kosa.streampractice;
+
+public class RosterTest {
+	
+	interface CheckSoldier() {
+		boolean test(Soldier s);
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

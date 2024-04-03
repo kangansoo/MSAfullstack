@@ -1,0 +1,22 @@
+package com.kosa.streampractice;
+
+import java.util.List;
+
+import com.kosa.lambda.Person;
+
+
+public class RosterTest {
+
+	interface checkSoldier() {
+		boolean test(Soldier s);
+	}
+	public static void main(String[] args) {
+		List<Soldier> roster = Soldier.createRoster();
+		for (Soldier s : roster) {
+            s.printSoldier();
+        }
+		
+		
+	}
+
+}
