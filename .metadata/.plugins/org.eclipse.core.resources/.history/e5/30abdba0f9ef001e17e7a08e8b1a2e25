@@ -1,5 +1,0 @@
-package com.kosa.strategy;
-
-public interface Eatbehavior {
-
-}

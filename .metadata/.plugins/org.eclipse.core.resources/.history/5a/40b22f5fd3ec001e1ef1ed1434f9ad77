@@ -1,6 +1,0 @@
-package com.kosa.diagram;
-
-public class Marine extends Unit {
-
-
-}

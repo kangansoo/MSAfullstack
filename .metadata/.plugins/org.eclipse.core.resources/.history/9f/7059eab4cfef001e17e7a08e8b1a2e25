@@ -1,5 +1,0 @@
-package com.kosa.overloadingtest;
-
-public class C extends B {
-
-}
