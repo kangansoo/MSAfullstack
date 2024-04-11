@@ -2,4 +2,5 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="com.kosa.simuduck.FlyBehavior"/>
     <fullyQualifiedTypeName name="com.oracle.rent.ch08.member.Member"/>
+    <fullyQualifiedTypeName name="java.util.Comparator"/>
 </qualifiedTypeNameHistroy>
